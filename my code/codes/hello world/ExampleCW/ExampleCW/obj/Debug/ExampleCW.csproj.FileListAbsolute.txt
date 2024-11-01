@@ -1,0 +1,42 @@
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\bin\Debug\ExampleCW.exe.config
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\bin\Debug\ExampleCW.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\bin\Debug\ExampleCW.pdb
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.csproj.AssemblyReference.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.Form1.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.Form2.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.Properties.Resources.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.csproj.GenerateResource.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.csproj.CoreCompileInputs.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.pdb
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.Form3.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\obj\Debug\ExampleCW.csproj.AssemblyReference.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\obj\Debug\ExampleCW.Form1.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\obj\Debug\ExampleCW.Form2.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\obj\Debug\ExampleCW.Form3.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\obj\Debug\ExampleCW.Properties.Resources.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\obj\Debug\ExampleCW.csproj.GenerateResource.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\obj\Debug\ExampleCW.csproj.CoreCompileInputs.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\obj\Debug\ExampleCW.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\obj\Debug\ExampleCW.pdb
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\ExampleCW.exe.config
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\ExampleCW.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\ExampleCW.pdb
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.Shared.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\bin\Debug\stdole.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ExampleCW\ExampleCW\obj\Debug\ExampleCW.csproj.Up2Date

@@ -1,0 +1,15 @@
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\WindowsFormsApp2-first\WindowsFormsApp2-first\bin\Debug\WindowsFormsApp2-first.exe.config
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\WindowsFormsApp2-first\WindowsFormsApp2-first\bin\Debug\WindowsFormsApp2-first.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\WindowsFormsApp2-first\WindowsFormsApp2-first\bin\Debug\WindowsFormsApp2-first.pdb
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\WindowsFormsApp2-first\WindowsFormsApp2-first\obj\Debug\WindowsFormsApp2-first.csproj.AssemblyReference.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\WindowsFormsApp2-first\WindowsFormsApp2-first\obj\Debug\WindowsFormsApp2_first.Calculater.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\WindowsFormsApp2-first\WindowsFormsApp2-first\obj\Debug\WindowsFormsApp2_first.Emp_Salary.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\WindowsFormsApp2-first\WindowsFormsApp2-first\obj\Debug\WindowsFormsApp2_first.Form1.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\WindowsFormsApp2-first\WindowsFormsApp2-first\obj\Debug\WindowsFormsApp2_first.Form2.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\WindowsFormsApp2-first\WindowsFormsApp2-first\obj\Debug\WindowsFormsApp2_first.Mini_Calculater.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\WindowsFormsApp2-first\WindowsFormsApp2-first\obj\Debug\WindowsFormsApp2_first.Properties.Resources.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\WindowsFormsApp2-first\WindowsFormsApp2-first\obj\Debug\WindowsFormsApp2_first.Sum_Calculation.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\WindowsFormsApp2-first\WindowsFormsApp2-first\obj\Debug\WindowsFormsApp2-first.csproj.GenerateResource.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\WindowsFormsApp2-first\WindowsFormsApp2-first\obj\Debug\WindowsFormsApp2-first.csproj.CoreCompileInputs.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\WindowsFormsApp2-first\WindowsFormsApp2-first\obj\Debug\WindowsFormsApp2-first.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\WindowsFormsApp2-first\WindowsFormsApp2-first\obj\Debug\WindowsFormsApp2-first.pdb

@@ -1,0 +1,7 @@
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\hostel\hostel\bin\Debug\hostel.exe.config
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\hostel\hostel\bin\Debug\hostel.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\hostel\hostel\bin\Debug\hostel.pdb
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\hostel\hostel\obj\Debug\hostel.csproj.AssemblyReference.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\hostel\hostel\obj\Debug\hostel.csproj.CoreCompileInputs.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\hostel\hostel\obj\Debug\hostel.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\hostel\hostel\obj\Debug\hostel.pdb

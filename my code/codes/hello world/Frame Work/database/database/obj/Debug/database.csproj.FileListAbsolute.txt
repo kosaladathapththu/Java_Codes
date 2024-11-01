@@ -1,0 +1,10 @@
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\database\database\bin\Debug\database.exe.config
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\database\database\bin\Debug\database.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\database\database\bin\Debug\database.pdb
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\database\database\obj\Debug\database.csproj.AssemblyReference.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\database\database\obj\Debug\database.Form1.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\database\database\obj\Debug\database.Properties.Resources.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\database\database\obj\Debug\database.csproj.GenerateResource.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\database\database\obj\Debug\database.csproj.CoreCompileInputs.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\database\database\obj\Debug\database.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\database\database\obj\Debug\database.pdb

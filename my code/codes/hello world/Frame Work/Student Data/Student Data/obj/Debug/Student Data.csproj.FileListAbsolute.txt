@@ -1,0 +1,14 @@
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Student Data\Student Data\bin\Debug\Student Data.exe.config
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Student Data\Student Data\bin\Debug\Student Data.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Student Data\Student Data\bin\Debug\Student Data.pdb
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Student Data\Student Data\obj\Debug\Student Data.csproj.AssemblyReference.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Student Data\Student Data\obj\Debug\Student_Data.Form1.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Student Data\Student Data\obj\Debug\Student_Data.Form2.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Student Data\Student Data\obj\Debug\Student_Data.Properties.Resources.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Student Data\Student Data\obj\Debug\Student Data.csproj.GenerateResource.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Student Data\Student Data\obj\Debug\Student Data.csproj.CoreCompileInputs.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Student Data\Student Data\obj\Debug\Student Data.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Student Data\Student Data\obj\Debug\Student Data.pdb
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Student Data\Student Data\obj\Debug\Student_Data.Form3.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Student Data\Student Data\obj\Debug\Student_Data.Form4.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Student Data\Student Data\obj\Debug\Student_Data.Form5.resources

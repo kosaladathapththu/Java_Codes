@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\WPF\\WpfApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2854A7C2-3D84-423C-A9FD-7B3B0F44F029}|WpfApp2\\WpfApp2.csproj|d:\\nibm\\dse\\a lessons\\new folder\\codes\\hello world\\wpf\\wpfapp2\\wpfapp2\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2854A7C2-3D84-423C-A9FD-7B3B0F44F029}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2854A7C2-3D84-423C-A9FD-7B3B0F44F029}|WpfApp2\\WpfApp2.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\WPF\\WpfApp2\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2854A7C2-3D84-423C-A9FD-7B3B0F44F029}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2854A7C2-3D84-423C-A9FD-7B3B0F44F029}|WpfApp2\\WpfApp2.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\WPF\\WpfApp2\\wpfapp2\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2854A7C2-3D84-423C-A9FD-7B3B0F44F029}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2854A7C2-3D84-423C-A9FD-7B3B0F44F029}|WpfApp2\\WpfApp2.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\WPF\\WpfApp2\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2854A7C2-3D84-423C-A9FD-7B3B0F44F029}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2854A7C2-3D84-423C-A9FD-7B3B0F44F029}|WpfApp2\\WpfApp2.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\WPF\\WpfApp2\\wpfapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2854A7C2-3D84-423C-A9FD-7B3B0F44F029}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\WPF\\WpfApp2\\WpfApp2\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\App.xaml",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\WPF\\WpfApp2\\WpfApp2\\App.xaml",
+              "RelativeToolTip": "WpfApp2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T08:06:44.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\WPF\\WpfApp2\\WpfApp2\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Window1.xaml.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\WPF\\WpfApp2\\WpfApp2\\Window1.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\Window1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:03:24.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\WPF\\WpfApp2\\WpfApp2\\Window1.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Window1.xaml",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\WPF\\WpfApp2\\WpfApp2\\Window1.xaml",
+              "RelativeToolTip": "WpfApp2\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T07:37:50.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\WPF\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\WPF\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T07:24:51.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\WPF\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\WPF\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:24:51.227Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

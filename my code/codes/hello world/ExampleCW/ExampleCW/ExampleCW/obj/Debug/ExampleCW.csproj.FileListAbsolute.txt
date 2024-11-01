@@ -1,0 +1,12 @@
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\bin\Debug\ExampleCW.exe.config
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\bin\Debug\ExampleCW.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\bin\Debug\ExampleCW.pdb
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.csproj.AssemblyReference.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.Form1.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.Form2.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.Properties.Resources.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.csproj.GenerateResource.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.csproj.CoreCompileInputs.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.pdb
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\ExampleCW\ExampleCW\obj\Debug\ExampleCW.Form3.resources

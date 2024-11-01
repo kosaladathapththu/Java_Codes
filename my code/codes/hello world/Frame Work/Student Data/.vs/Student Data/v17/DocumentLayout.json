@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|d:\\nibm\\dse\\a lessons\\new folder\\codes\\hello world\\frame work\\student data\\student data\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|solutionrelative:student data\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|d:\\nibm\\dse\\a lessons\\new folder\\codes\\hello world\\frame work\\student data\\student data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|solutionrelative:student data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|d:\\nibm\\dse\\a lessons\\new folder\\codes\\hello world\\frame work\\student data\\student data\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|solutionrelative:student data\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|d:\\nibm\\dse\\a lessons\\new folder\\codes\\hello world\\frame work\\student data\\student data\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|solutionrelative:student data\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|d:\\nibm\\dse\\a lessons\\new folder\\codes\\hello world\\frame work\\student data\\student data\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|solutionrelative:student data\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|d:\\nibm\\dse\\a lessons\\new folder\\codes\\hello world\\frame work\\student data\\student data\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|solutionrelative:student data\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|d:\\nibm\\dse\\a lessons\\new folder\\codes\\hello world\\frame work\\student data\\student data\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|solutionrelative:student data\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|d:\\nibm\\dse\\a lessons\\new folder\\codes\\hello world\\frame work\\student data\\student data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|solutionrelative:student data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|d:\\nibm\\dse\\a lessons\\new folder\\codes\\hello world\\frame work\\student data\\student data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|solutionrelative:student data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|d:\\nibm\\dse\\a lessons\\new folder\\codes\\hello world\\frame work\\student data\\student data\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|solutionrelative:student data\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|d:\\nibm\\dse\\a lessons\\new folder\\codes\\hello world\\frame work\\student data\\student data\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF41F0A8-AC97-4433-A63C-4F74E17E0CCA}|Student Data\\Student Data.csproj|solutionrelative:student data\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form5.cs",
+              "RelativeDocumentMoniker": "Student Data\\Form5.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form5.cs",
+              "RelativeToolTip": "Student Data\\Form5.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAuwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:08:23.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form5.cs",
+              "RelativeDocumentMoniker": "Student Data\\Form5.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form5.cs [Design]",
+              "RelativeToolTip": "Student Data\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:00:08.511Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form4.cs",
+              "RelativeDocumentMoniker": "Student Data\\Form4.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form4.cs",
+              "RelativeToolTip": "Student Data\\Form4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:56:45.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form4.cs",
+              "RelativeDocumentMoniker": "Student Data\\Form4.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form4.cs [Design]",
+              "RelativeToolTip": "Student Data\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:45:31.62Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form3.cs",
+              "RelativeDocumentMoniker": "Student Data\\Form3.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form3.cs",
+              "RelativeToolTip": "Student Data\\Form3.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAuwCMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:19:22.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form3.cs",
+              "RelativeDocumentMoniker": "Student Data\\Form3.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form3.cs [Design]",
+              "RelativeToolTip": "Student Data\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:15:51.955Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Program.cs",
+              "RelativeDocumentMoniker": "Student Data\\Program.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Program.cs",
+              "RelativeToolTip": "Student Data\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:49:27.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form2.cs",
+              "RelativeDocumentMoniker": "Student Data\\Form2.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form2.cs",
+              "RelativeToolTip": "Student Data\\Form2.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswB8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:44:32.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form2.cs",
+              "RelativeDocumentMoniker": "Student Data\\Form2.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form2.cs [Design]",
+              "RelativeToolTip": "Student Data\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:40:19.203Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form1.cs",
+              "RelativeDocumentMoniker": "Student Data\\Form1.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form1.cs",
+              "RelativeToolTip": "Student Data\\Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:15:20.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form1.cs",
+              "RelativeDocumentMoniker": "Student Data\\Form1.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\Student Data\\Student Data\\Form1.cs [Design]",
+              "RelativeToolTip": "Student Data\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:13:39.434Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

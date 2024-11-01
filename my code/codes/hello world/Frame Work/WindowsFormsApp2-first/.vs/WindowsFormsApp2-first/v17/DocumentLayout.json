@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\windowsformsapp2-first\\mini calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|solutionrelative:windowsformsapp2-first\\mini calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\windowsformsapp2-first\\mini calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|solutionrelative:windowsformsapp2-first\\mini calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|d:\\nibm\\dse\\a lessons\\new folder\\codes\\hello world\\frame work\\windowsformsapp2-first\\windowsformsapp2-first\\sum calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|solutionrelative:windowsformsapp2-first\\sum calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\windowsformsapp2-first\\calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|solutionrelative:windowsformsapp2-first\\calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\windowsformsapp2-first\\emp salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|solutionrelative:windowsformsapp2-first\\emp salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\windowsformsapp2-first\\emp salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|solutionrelative:windowsformsapp2-first\\emp salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\0MPZWH92\\Form3[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\windowsformsapp2-first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|solutionrelative:windowsformsapp2-first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\windowsformsapp2-first\\sum calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|solutionrelative:windowsformsapp2-first\\sum calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\windowsformsapp2-first\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|solutionrelative:windowsformsapp2-first\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\windowsformsapp2-first\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|solutionrelative:windowsformsapp2-first\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\windowsformsapp2-first\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|solutionrelative:windowsformsapp2-first\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\windowsformsapp2-first\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|solutionrelative:windowsformsapp2-first\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\windowsformsapp2-first\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60776D16-F8A7-4FA1-BB51-2AE4D4C19EA6}|WindowsFormsApp2-first\\WindowsFormsApp2-first.csproj|solutionrelative:windowsformsapp2-first\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 1124,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sum Calculation.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Sum Calculation.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2-first\\Sum Calculation.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Sum Calculation.cs",
+              "RelativeToolTip": "WindowsFormsApp2-first\\Sum Calculation.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAUwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:05:28.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2-first\\Program.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp2-first\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:52:24.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3[1].cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\0MPZWH92\\Form3[1].cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\0MPZWH92\\Form3[1].cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAIMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:42:45.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mini Calculater.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Mini Calculater.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2-first\\Mini Calculater.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Mini Calculater.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2-first\\Mini Calculater.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:11:10.315Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mini Calculater.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Mini Calculater.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2-first\\Mini Calculater.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Mini Calculater.cs",
+              "RelativeToolTip": "WindowsFormsApp2-first\\Mini Calculater.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAHAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:18:12.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sum Calculation.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Sum Calculation.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2-first\\Sum Calculation.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Sum Calculation.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2-first\\Sum Calculation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:00:50.695Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculater.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Calculater.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2-first\\Calculater.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Calculater.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2-first\\Calculater.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:20:27.519Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Emp Salary.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Emp Salary.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2-first\\Emp Salary.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Emp Salary.cs",
+              "RelativeToolTip": "WindowsFormsApp2-first\\Emp Salary.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:48:27.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Emp Salary.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Emp Salary.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2-first\\Emp Salary.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Emp Salary.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2-first\\Emp Salary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:46:25.966Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2-first\\Form1.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp2-first\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:18:29.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2-first\\Form2.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Form2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2-first\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:19:11.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2-first\\Form2.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Form2.cs",
+              "RelativeToolTip": "WindowsFormsApp2-first\\Form2.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAhwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T03:58:02.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2-first\\Form3.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Form3.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2-first\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T03:52:03.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2-first\\Form1.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\A Lessons\\New folder\\codes\\hello world\\Frame Work\\WindowsFormsApp2-first\\WindowsFormsApp2-first\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2-first\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T03:21:29.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

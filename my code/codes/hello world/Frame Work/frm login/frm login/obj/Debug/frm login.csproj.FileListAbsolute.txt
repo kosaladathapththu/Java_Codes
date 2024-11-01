@@ -1,0 +1,12 @@
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\frm login\frm login\bin\Debug\frm login.exe.config
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\frm login\frm login\bin\Debug\frm login.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\frm login\frm login\bin\Debug\frm login.pdb
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\frm login\frm login\obj\Debug\frm login.csproj.AssemblyReference.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\frm login\frm login\obj\Debug\frm_login.Form1.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\frm login\frm login\obj\Debug\frm_login.Form2.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\frm login\frm login\obj\Debug\frm_login.Form3.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\frm login\frm login\obj\Debug\frm_login.Properties.Resources.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\frm login\frm login\obj\Debug\frm login.csproj.GenerateResource.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\frm login\frm login\obj\Debug\frm login.csproj.CoreCompileInputs.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\frm login\frm login\obj\Debug\frm login.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\frm login\frm login\obj\Debug\frm login.pdb
